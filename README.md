@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aashish Joshi</h1>
 <h3 align="center">A passionate Software Engineer developer from India</h3>
 
-<img align="right"alt="coding"width="400"src="https://www.bing.com/th/id/OGC.54e37d8074ebcde1d96c77d7b2a7f310?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f54%2fe3%2f7d%2f54e37d8074ebcde1d96c77d7b2a7f310.gif&ehk=PrEGdwL4PhD7Z%2fwJCNJ7ZoCNkliX6f%2bNR0nwPKvtck4%3d">
+<img align="right"alt="coding"width="400"src="https://th.bing.com/th/id/OIP.nWQ_U5NKEfNeGCTfh_2-MwHaEq?w=255&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aas6395&label=Profile%20views&color=0e75b6&style=flat" alt="aas6395" /> </p>
 
